@@ -143,4 +143,4 @@ We welcome contributions! Please follow these steps:
 For support or questions, please contact:
 
 - Solomon Ferede - ezezsolomonferede@gmail.com
-- Project Link: [https://github.com/solomonferede1/resource_gaurd](https://github.com/solomonferede1/resource_gaurd)
+- Project Link: [https://github.com/solomonferede1/resource_gaurd](https://github.com/solomonferede/resource_gaurd)
